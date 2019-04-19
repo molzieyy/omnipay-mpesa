@@ -1,5 +1,5 @@
 {
-    "name": "molzieyy/lnm-mpesa",
+    "name": "molzieyy/omnipay-lnm-mpesa",
     "type": "library",
     "description": "Mpesa driver for the Omnipay payment processing library",
     "keywords": [
@@ -10,16 +10,12 @@
         "payment",
         "Mpesa"
     ],
-    "homepage": "https://github.com/thephpleague/omnipay-stripe",
+    "homepage": "https://github.com/molzieyy/omnipay-mpesa",
     "license": "MIT",
     "authors": [
         {
             "name": "Molel",
             "email": "slackware609@gmail.com"
-        },
-        {
-            "name": "Omnipay Contributors",
-            "homepage": "https://github.com/thephpleague/omnipay-stripe/contributors"
         }
     ],
     "autoload": {
