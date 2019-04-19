@@ -1,5 +1,5 @@
 {
-    "name": "omnipay/lnm-mpesa",
+    "name": "molzieyy/lnm-mpesa",
     "type": "library",
     "description": "Mpesa driver for the Omnipay payment processing library",
     "keywords": [
